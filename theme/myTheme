@@ -1,0 +1,21 @@
+// Theme used.
+--> sublime Monokai (vscode extension).
+
+
+// customizing some colors to sublim Monokai.
+-->  "workbench.colorCustomizations": {
+
+         "[Sublime Monokai]": {
+            "sideBar.foreground": "#ffffff",
+            "sideBar.background": "#0a131f",
+            "editor.background":  "#100e14",
+            "activityBar.activeBorder": "#031eb4",
+            "statusBar.background": "#2e3844",
+            "activityBar.background": "#1a1d20",
+            "editor.lineHighlightBackground": "#1e0635",
+            "tab.activeBackground": "#071422",
+            "tab.inactiveBackground": "#242935",
+            // "sideBarSectionHeader.background": "#042c3b",
+            
+        }
+    },

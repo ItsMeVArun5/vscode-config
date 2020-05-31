@@ -1,0 +1,35 @@
+{
+    "window.zoomLevel": 2,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.maven.userSettings": "\"java.home\": \" /home/varun/myStuff/programming languages/jdk-12.0.2\"",
+    "workbench.colorCustomizations": {
+    
+
+         "[Sublime Monokai]": {
+            "sideBar.foreground": "#ffffff",
+            "sideBar.background": "#0a131f",
+            "editor.background":  "#100e14",
+            "activityBar.activeBorder": "#031eb4",
+            "statusBar.background": "#2e3844",
+            "activityBar.background": "#1a1d20",
+            "editor.lineHighlightBackground": "#1e0635",
+            "tab.activeBackground": "#071422",
+            "tab.inactiveBackground": "#242935",
+            // "sideBarSectionHeader.background": "#042c3b",
+            
+        }
+    },
+    "python.jediEnabled": false,
+    "editor.fontSize": 16,
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "editor.tabSize": 3,
+    "workbench.colorTheme": "Sublime Monokai",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "java.semanticHighlighting.enabled": true,
+    "workbench.iconTheme": "material-icon-theme"
+
+}
